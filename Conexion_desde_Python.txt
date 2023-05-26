@@ -1,0 +1,8 @@
+	import mysql.connector
+midb = mysql.connector.connect(
+host="localhost",
+user="root",
+password="contraseña123",
+database="proyectointegradorv01"
+)
+print(midb)
