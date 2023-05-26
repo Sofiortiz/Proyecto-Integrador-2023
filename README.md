@@ -26,4 +26,4 @@ Conocer e identificar el marco normativo profesional. Comprender la importancia 
 
 - Ortiz, Sofia Mariel - [GitHub:](https://github.com/Sofiortiz) Sofiortiz
 - Farias, Evelin - [GitHub:](https://github.com/linevefar) linevefar
-- Romero, Hernan - [GitHub:](https://github.com/hernanmatiasar) hernanmatiasa
+- Romero, Hernan - [GitHub:](https://github.com/hernanmatiasar) hernanmatiasar
